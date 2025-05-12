@@ -1,4 +1,4 @@
 # First
 My First Repository
 <br>
-Author - Tejas Katrajkar
+Author - Tejas Katrajkar BCI
