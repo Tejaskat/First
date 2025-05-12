@@ -4,3 +4,5 @@ My First Repository
 Author - Tejas Katrajkar BCI
 pizza
 burger
+pasta
+nall
